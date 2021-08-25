@@ -1,4 +1,4 @@
-For this project, I was using C++11 for my code. I also had an extra file "helper_functions.cpp" in which I implemented a merger fucntion (merge 2 sub vectors) and a printVector function.
+For this project, I was using C++11 for my code. I also had an extra file "helper_functions.cpp" in which I implemented a merger function (merge 2 sub vectors) and a printVector function.
 
 Steps to run my program:
 1) compile: 
